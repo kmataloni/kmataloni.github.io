@@ -1,2 +1,2 @@
-# kmataloni.github.io
-Web-Design-Challenge
+# Web-Design-Challenge.io
+Github Pages Version
